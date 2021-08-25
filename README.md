@@ -1,5 +1,5 @@
-<a href="https://cooltext.com"><img src="https://images.cooltext.com/5548661.gif" width="156" height="102" alt="Javi" /></a>
-<br />Image by <a href="https://cooltext.com">Cool Text: Free Logos and Buttons</a> - <a href="https://cooltext.com/Edit-Logo?LogoID=3915911105">
+<a href="https://cooltext.com"><img src="https://images.cooltext.com/5548662.png" width="210" height="125" alt="Javi" /></a>
+<br />Image by <a href="https://cooltext.com"></a> - <a href="https://cooltext.com/Edit-Logo?LogoID=3915913378">/a>
 ### Hola compañeros 👋
 
 
