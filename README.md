@@ -1,17 +1,14 @@
 <a href="https://cooltext.com"><img src="https://images.cooltext.com/5548662.png" width="210" height="125" alt="Javi" /></a>
-<a href="http://cooltext.com" target="_top"><img src="https://cooltext.com/images/ct_pixel.gif" width="80" height="15" alt="Cool Text: Logo and Graphics Generator" border="0" /></a>
+
 ### Hola compañeros 👋
 
-
+<a href="http://cooltext.com" target="_top"><img src="https://cooltext.com/images/ct_pixel.gif" width="80" height="15" alt="Cool Text: Logo and Graphics Generator" border="0" /></a>
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+
 - 🌱 Actualmente estudio ingenieria en sistemas
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 📫 como contactarme: 
+- 😄 Pronombres: El
 - ⚡ Soy alumno de del ITT y ex alumno de la PFLC!
 
