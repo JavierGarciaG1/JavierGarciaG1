@@ -12,5 +12,13 @@ Here are some ideas to get you started:
 - ⚡ Soy alumno de del ITT y ex alumno de la PFLC!
 
 Horario:
+|       |                     Lunes                    |                    Martes                   |                   Miercoles                  |                    Jueves                    |                   Viernes                   |
+|:-----:|:--------------------------------------------:|:-------------------------------------------:|:--------------------------------------------:|:--------------------------------------------:|:-------------------------------------------:|
+| 14:00 |             Lenguajes de interfaz            |             Lenguaje de interfaz            |             Lenguaje de interfaz             |             Lenguaje de interfaz             |                                             |
+| 15:00 |            Inteligencia artificial           |           Inteligencia artificial           |            Inteligencia artificial           |            Inteligencia artificial           |                                             |
+| 16:00 |              Patrones de diseño              |              Patrones de diseño             |              Patrones de diseño              |              Patrones de diseño              |              Patrones de diseño             |
+| 17:00 | Topicos avanzados de  desarrollo de software | Topicos avanzados de desarrollo de software | Topicos avanzados de  desarrollo de software | Topicos avanzados de  desarrollo de software | Topicos avanzados de desarrollo de software |
+| 18:00 |             Aplicaciones moviles             |             Aplicaciones moviles            |             Aplicaciones moviles             |             Aplicaciones moviles             |             Aplicaciones moviles            |
+| 19:00 |        Analisis avanzado de  software        |        Analisis avanzado de  software       |         Analisis avanzado de software        |         Analisis avanzado de software        |        Analisis avanzado de software        |
 
 
