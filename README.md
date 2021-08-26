@@ -9,6 +9,8 @@ Here are some ideas to get you started:
 
 - 🌱 Actualmente estudio ingenieria en sistemas
 - 📫 como contactarme: 
-- 😄 Pronombres: El
 - ⚡ Soy alumno de del ITT y ex alumno de la PFLC!
+
+Horario:
+
 
