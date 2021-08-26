@@ -9,6 +9,7 @@ Here are some ideas to get you started:
 
 - 🌱 Actualmente estudio ingenieria en sistemas
 - 📫 como contactarme: 
+   Facebook: https://www.facebook.com/javierernesto.garciagomez/
 - ⚡ Soy alumno de del ITT y ex alumno de la PFLC!
 
 Horario:
